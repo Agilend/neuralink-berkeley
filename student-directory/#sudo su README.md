@@ -1,4 +1,4 @@
-# How to add yourself to the student directory for NEURALINK BERKELEY
+sudo su && # How to add yourself to the student directory for NEURALINK BERKELEY
 
 ### [YouTube | Your First Pull Request on GitHub](https://youtu.be/0HKE5nDypUg)
 
